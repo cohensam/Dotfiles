@@ -1,0 +1,9 @@
+Host eniac
+User cohensam
+HostName eniac.seas.upenn.edu
+IdentityFile ~/.ssh/authorized_keys
+
+Host github
+User git
+HostName github.com
+IdentityFile ~/.ssh/authorized_keys
